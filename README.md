@@ -12,15 +12,16 @@ MICSI24-3 - DevOps
 
 ## Git diagram
 ---
-
-    gitGraph
-      commit
-      commit
-      branch develop
-      checkout develop
-      commit
-      commit
-      checkout main
-      merge develop
-      commit
-      commit
+``` mermaid
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+```
