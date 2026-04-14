@@ -25,3 +25,10 @@ gitGraph
    commit
    commit
 ```
+
+## Liens
+### Source mermaid
+https://mermaid.ai/open-source/syntax/gitgraph.html
+
+### Source d'inspiration
+https://www.linkedin.com/in/vladimir-evdokimov-b2814a186/
