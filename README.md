@@ -9,3 +9,18 @@ MICSI24-3 - DevOps
 - Renommer file1 en file1.txt
 - Supprimer le file3
 - Commit et push la branch develop
+
+## Git diagram
+---
+
+gitGraph
+    commit
+    commit
+    branch develop
+    checkout develop
+    commit
+    commit
+    checkout main
+    merge develop
+    commit
+    commit
